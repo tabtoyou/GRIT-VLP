@@ -1,5 +1,5 @@
 ## GRIT-VLP: GRouped mIni-baTch sampling for Efficient Vision-Language Pre-training
-This is the official PyTorch implementation of "GRIT-VLP: GRouped mIni-baTch sampling for Efficient Vision-Language Pre-training"
+This is the official PyTorch implementation of "[GRIT-VLP: GRouped mIni-baTch sampling for Efficient Vision-Language Pre-training](https://arxiv.org/abs/2208.04060)"
 (Accepted to ECCV 2022)
 
 You can find the implementation codes for pre-training and fine-tuning GRIT-VLP. 
